@@ -5,10 +5,10 @@
 
 package TestProblems99
 
-import Problems99.problem_set_2._
+import Problems99.ProblemSet2._
 import org.scalatest._
 
-class test_set_2 extends FlatSpec with Matchers {
+class TestSet2 extends FlatSpec with Matchers {
 
   // Pallindrome
   "ReturnIsListPallindrome" should "return a Boolean reflecting whether or not the list is in fact a pallindrome." in {

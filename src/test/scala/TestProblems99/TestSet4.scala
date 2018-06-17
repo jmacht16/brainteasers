@@ -5,10 +5,10 @@
 
 package TestProblems99
 
-import Problems99.problem_set_4._
+import Problems99.ProblemSet4._
 import org.scalatest._
 
-class test_set_4 extends FlatSpec with Matchers{
+class TestSet4 extends FlatSpec with Matchers{
 
   def testReturnListFilteredByIndexAsMap(): Unit = {
     val myMainList = List(1,2,3,4,5,6,7,8,9,10)

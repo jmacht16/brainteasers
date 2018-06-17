@@ -4,7 +4,7 @@
 
 package Problems99
 
-object problem_set_1 {
+object ProblemSet1 {
 
   def returnLastElementOfList[A](ls: List[A]): A = ls match {
     case h :: Nil => h // only one element in the list, return it

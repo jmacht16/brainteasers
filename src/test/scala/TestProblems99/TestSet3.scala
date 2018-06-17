@@ -5,10 +5,10 @@
 
 package TestProblems99
 
-import Problems99.problem_set_3._
+import Problems99.ProblemSet3._
 import org.scalatest._
 
-class test_set_3 extends FlatSpec with Matchers {
+class TestSet3 extends FlatSpec with Matchers {
 
   // Packer
   "Pack" should "return a list of lists, each one containing consecutive elements from the input list" in {

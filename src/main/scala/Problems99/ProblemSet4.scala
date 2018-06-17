@@ -4,7 +4,7 @@
 
 package Problems99
 
-object problem_set_4 {
+object ProblemSet4 {
   /**
     * This function takes 2 lists. One main list, and a list of indexes to be filtered.
     * It returns a Map where the key is the index, and the value is the value in the list ls.

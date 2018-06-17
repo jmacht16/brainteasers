@@ -5,10 +5,10 @@
 
 package TestProblems99
 
-import Problems99.problem_set_1._
+import Problems99.ProblemSet1._
 import org.scalatest._
 
-class test_set_1 extends FlatSpec with Matchers {
+class TestSet1 extends FlatSpec with Matchers {
 
   // Return last element of list
   "Last Element of List" should "return the last element of a list of any" in {

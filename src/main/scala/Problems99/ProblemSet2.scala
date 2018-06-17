@@ -4,7 +4,7 @@
 
 package Problems99
 
-object problem_set_2 {
+object ProblemSet2 {
 
   /**
     * This function check whether a list is a pallindrome (a sequence that is the same forwards as backwards)
